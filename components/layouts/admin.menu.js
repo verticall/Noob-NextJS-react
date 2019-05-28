@@ -62,6 +62,11 @@ const AdminSidebar = (props) => {
                     <i className="fa fa-circle-o" /> Users
                   </a>
                 </li>
+                <li className={props._menu_id == 12 ? "active" : ""}>
+                  <a href="/bank">
+                    <i className="fa fa-circle-o" /> bank
+                  </a>
+                </li>
               </ul>
             </li>
             <li className="treeview">

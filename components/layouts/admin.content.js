@@ -21,7 +21,8 @@ const AdminContent = props => {
       <section className="content">
         {
           props.children
-        }</section>
+        }
+        </section>
     </div>
   );
 };

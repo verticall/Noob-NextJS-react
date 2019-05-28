@@ -7,7 +7,7 @@ import AdminContent from "./admin.content";
 export default class AdminHOC extends Component {
   render() {
     return (
-      <div>
+      <div className="bank">
         <AdminHeader />
         <AdminSidebar
           _menu_id={this.props.menu_id}
