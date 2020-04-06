@@ -12,6 +12,7 @@
     "next-sass": "^1.0.3",
     "node-sass": "^4.12.0",
     "react": "16.8.6",
-    "react-dom": "16.8.6"
+    "react-dom": "16.8.6",
+    "minimist": ">=0.2.1"
   }
 }
